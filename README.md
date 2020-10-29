@@ -1,1 +1,3 @@
-# my_scripts_my_helpers
+# drupal inits
+
+composer global require drush/drush
